@@ -42,7 +42,7 @@ Clone the repository:
 
 
 Copy code
-git clone https://github.com/Sachin-1729/Education-Technology.git
+git clone https://github.com/Sachin-1729/Education-Technology-.git
 Navigate to the project directory:
 
 cd Education-Technology
